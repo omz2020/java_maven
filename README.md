@@ -1,0 +1,1 @@
+простой проект Project3: maven + git + junit
